@@ -1,0 +1,8 @@
+# environment
+.env
+# venv
+.venv/
+# model weights
+model/
+# youtube comment data
+datasets/
