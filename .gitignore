@@ -5,4 +5,4 @@
 # model weights
 model/
 # youtube comment data
-datasets/
+datasets/.DS_Store
